@@ -55,6 +55,14 @@ export let validity: ValidityItem | undefined = { isError: false };
 			>Rune Converter</span
 		>
 	</NavBrand>
+	<a href="https://github.com/BCsabaEngine/svelte-rune-converter" target="_blank"
+		>This is an open source project<img
+			class="inline-flex ml-2"
+			width="24"
+			src="https://github.githubassets.com/favicons/favicon.png"
+			alt="github"
+		/></a
+	>
 </Navbar>
 
 <h1 class="text-2xl text-center mb-8">
